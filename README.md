@@ -7,22 +7,6 @@
 <br>
 
 ---
-
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Built With](#built-with)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## 📖 About The Project
 
 ShareCare is a cross-platform mobile application developed to address **Sustainable Development Goal 2 (SDG 2) — Zero Hunger**. The app tackles the dual problems of food waste and hunger by providing a seamless platform for individuals and businesses to donate surplus food to those in need.
